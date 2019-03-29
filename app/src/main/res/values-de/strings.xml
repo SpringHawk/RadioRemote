@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RadioRemote</string>
+    <string name="title_fav">Favoriten</string>
+    <string name="title_all">Alle Sender</string>
+    <string name="hint_search_station">Suche einen Sender</string>
+    <string name="btn_search_station">Suchen</string>
+    <string name="advice_enter_ip">IP Addresse des Radios eingeben</string>
+    <string name="hint_ip">IP Adresse</string>
+    <string name="btn_set_ip">IP festlegen</string>
+    <string name="err_enter_ip">IP eingeben um forzufahren</string>
+</resources>
